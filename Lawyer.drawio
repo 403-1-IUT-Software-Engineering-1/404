@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.0">
+  <diagram name="Page-1" id="2lsVLoLcosizqDS1BCol">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="prtESrQwd___Eysugu1f-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="590" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="prtESrQwd___Eysugu1f-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Lawyer Service&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="70" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prtESrQwd___Eysugu1f-4" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Lawyer&lt;/font&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Sign in / Sign up&lt;br&gt;&lt;/font&gt;" link="https://www.draw.io/#G1dl8G7an4zMujYMwiWTBp5y0mEkHRdNQq" id="prtESrQwd___Eysugu1f-5">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="577.5" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="prtESrQwd___Eysugu1f-6" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="prtESrQwd___Eysugu1f-4" target="prtESrQwd___Eysugu1f-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="400" as="sourcePoint" />
+            <mxPoint x="800" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="prtESrQwd___Eysugu1f-7" value="Add templates" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prtESrQwd___Eysugu1f-8" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="prtESrQwd___Eysugu1f-4" target="prtESrQwd___Eysugu1f-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="400" as="sourcePoint" />
+            <mxPoint x="800" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="prtESrQwd___Eysugu1f-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Add legal information&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prtESrQwd___Eysugu1f-10" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="prtESrQwd___Eysugu1f-4" target="prtESrQwd___Eysugu1f-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="400" as="sourcePoint" />
+            <mxPoint x="800" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="prtESrQwd___Eysugu1f-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;View reserved appointment&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prtESrQwd___Eysugu1f-12" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="prtESrQwd___Eysugu1f-4" target="prtESrQwd___Eysugu1f-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="400" as="sourcePoint" />
+            <mxPoint x="800" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
