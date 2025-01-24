@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.7">
+  <diagram name="Page-1" id="eO-bx2FShRwQI2R7Bysx">
+    <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="694.54" y="80" as="sourcePoint" />
+            <mxPoint x="694.54" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#464a4e, #7d8c9b);strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="670" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="z7HTLuy6B4mvr2cNxcRe-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-5" value="فرد گزینه ویرایش اطلاعات را انتخاب میکند" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="635" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z7HTLuy6B4mvr2cNxcRe-7" target="z7HTLuy6B4mvr2cNxcRe-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-7" value="اطلاعات جدید را وارد میکند" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="635" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z7HTLuy6B4mvr2cNxcRe-8" target="z7HTLuy6B4mvr2cNxcRe-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-8" value="اطلاعات جدید جایگزین اطلاعات قبلی فرد میشود" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="635" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z7HTLuy6B4mvr2cNxcRe-10" target="z7HTLuy6B4mvr2cNxcRe-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-15" value="اطلاعات صحیح وارد شده" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="z7HTLuy6B4mvr2cNxcRe-14" vertex="1" connectable="0">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP_C42Sv8VpUXsihw1e1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z7HTLuy6B4mvr2cNxcRe-10" target="kP_C42Sv8VpUXsihw1e1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kP_C42Sv8VpUXsihw1e1-3" value="وارد کردن اطلاعات تکراری یا ناکافی" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kP_C42Sv8VpUXsihw1e1-2">
+          <mxGeometry x="0.12" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-10" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="380" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="665" y="670" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HTLuy6B4mvr2cNxcRe-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="675" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kP_C42Sv8VpUXsihw1e1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kP_C42Sv8VpUXsihw1e1-1" target="z7HTLuy6B4mvr2cNxcRe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kP_C42Sv8VpUXsihw1e1-1" value="پیغام خطا نمایش داده میشود" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="850" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
