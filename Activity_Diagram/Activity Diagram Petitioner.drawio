@@ -1,0 +1,245 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7" pages="2">
+  <diagram name="Page-1" id="qBaHrb_pLnU102IS49ss">
+    <mxGraphModel dx="-64" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#464a4e, #7d8c9b);strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1290.24" y="-120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.84" y="-70" as="sourcePoint" />
+            <mxPoint x="1315.08" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-3" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;عریضه‌نویس وارد بخش &quot;درخواست‌های عریضه&quot; در پروفایل خود می‌شود&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1255.08" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1315" y="20" as="sourcePoint" />
+            <mxPoint x="1315.24" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-5" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;فهرستی از تمام درخواست‌های عریضه او نمایش داده می‌شود&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1255.24" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.79" y="110" as="sourcePoint" />
+            <mxPoint x="1315.03" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WiHDJzgCHgVcBJAjzPki-7" target="WiHDJzgCHgVcBJAjzPki-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="140" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WiHDJzgCHgVcBJAjzPki-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435.1599999999999" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1440" y="160" />
+            </Array>
+            <mxPoint x="1340.1599999999999" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-9" value="[مشاهده جزئیات یک عریضه به خصوص ]&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340.2399999999998" y="130" width="94.92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-10" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;عریضه‌نویس به دلخواه خود روی یکی از درخواست‌های عریضه کلیک می‌کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;labelBorderColor=none;spacingLeft=2;spacingBottom=0;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="1379.9999999999998" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1434.97" y="360" as="sourcePoint" />
+            <mxPoint x="1435.21" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WiHDJzgCHgVcBJAjzPki-13" target="WiHDJzgCHgVcBJAjzPki-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435.08" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="390" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WiHDJzgCHgVcBJAjzPki-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1555.1599999999999" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1555" y="410" />
+            </Array>
+            <mxPoint x="1460.1599999999999" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-15" value="[ تکمیل یا ویرایش پاسخ عریضه ]&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460.16" y="384" width="144.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WiHDJzgCHgVcBJAjzPki-16" target="WiHDJzgCHgVcBJAjzPki-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-16" value="&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot; face=&quot;Lucida Console&quot;&gt;&amp;nbsp;عریضه‌نویس می‌تواند با کلیک کردن روی گزینه &quot;تکمیل عریضه&quot; شروع به نوشتن یکی از عریضه‌های درخواستی کند و یا محتوای فعلی آن را تکمیل و یا ویرایش کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;labelBorderColor=none;spacingLeft=2;spacingBottom=0;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="1495.16" y="430" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1555" y="520" as="sourcePoint" />
+            <mxPoint x="1555.16" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WiHDJzgCHgVcBJAjzPki-45" target="WiHDJzgCHgVcBJAjzPki-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1555.16" y="690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-18" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;عریضه‌نویس تغییرات خود را با زدن دکمه &quot;اعمال تغییرات&quot; ذخیره می‌کند&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1495.16" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="710" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WiHDJzgCHgVcBJAjzPki-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1434.78" y="750" as="sourcePoint" />
+            <mxPoint x="1435" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WiHDJzgCHgVcBJAjzPki-25" target="WiHDJzgCHgVcBJAjzPki-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1555.1599999999999" y="836" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1460" y="796" />
+              <mxPoint x="1555" y="796" />
+            </Array>
+            <mxPoint x="1460.1599999999999" y="796" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-24" value="[ ارسال پاسخ عریضه ]&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="770" width="144.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WiHDJzgCHgVcBJAjzPki-25" target="WiHDJzgCHgVcBJAjzPki-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="775" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WiHDJzgCHgVcBJAjzPki-27" target="WiHDJzgCHgVcBJAjzPki-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-27" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;عریضه‌نویس پاسخ نهایی عریضه درخواستی را برای کاربر ارسال کرده و وضعیت این عریضه به حالت &quot;تکمیل شده&quot; در می‌آید&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1495.16" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-29" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1289.92" y="970" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.8" y="1010" as="sourcePoint" />
+            <mxPoint x="1315.04" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-33" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;خروج از صفحه درخواست‌های عریضه&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-34" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;اطلاعات و جزئیات بیشتر آن درخواست نمایش داده می‌شود&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;labelBorderColor=none;spacingLeft=2;spacingBottom=0;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="1379.9999999999998" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1439.81" y="270" as="sourcePoint" />
+            <mxPoint x="1440.05" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WiHDJzgCHgVcBJAjzPki-41" target="WiHDJzgCHgVcBJAjzPki-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-41" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="930" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-45" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;وضعیت این درخواست به حالت&quot;در حال بررسی&quot; در می‌آید&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1495.16" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1555.01" y="600" as="sourcePoint" />
+            <mxPoint x="1555.17" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1315.08" y="1100" as="sourcePoint" />
+            <mxPoint x="1315.2" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1285.24" y="1130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiHDJzgCHgVcBJAjzPki-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#464A4E;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1295.24" y="1140" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FsZPsC5Joj68VngXcR0n" name="Page-2">
+    <mxGraphModel dx="656" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#464a4e, #7d8c9b);strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="375.00000000000006" y="-480" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-12" value="&lt;font face=&quot;Lucida Console&quot;&gt;عریضه نویس وارد بخش &quot;بازخورد‌ها و امتیازت&quot; در پروفایل خود می‌شود&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.501;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NtnkRkjqDLTTVb56nS1Y-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-430" as="sourcePoint" />
+            <mxPoint x="404.94" y="-398" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-14" value="&lt;font style=&quot;line-height: 100%;&quot; face=&quot;Lucida Console&quot;&gt;تمامی بازخورد‌ها و امتیازات ثبت شده (شامل متن کامل بازخورد کاربر، امتیازی که داده است، تاریخ ثبت بازخورد و آیدی عریضه ای که این بازخورد روی آن ثبت شده است)، برای او نمایش داده می‌شود&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;spacingLeft=2;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-310" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NtnkRkjqDLTTVb56nS1Y-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-340" as="sourcePoint" />
+            <mxPoint x="400" y="-310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NtnkRkjqDLTTVb56nS1Y-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-190" as="sourcePoint" />
+            <mxPoint x="400.12" y="-157.53999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-17" value="&lt;font face=&quot;Lucida Console&quot;&gt;خروج از صفحه بازخورد‌ها و امتیازات&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.84" y="-90" as="sourcePoint" />
+            <mxPoint x="399.96" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtnkRkjqDLTTVb56nS1Y-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#464A4E;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-50" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

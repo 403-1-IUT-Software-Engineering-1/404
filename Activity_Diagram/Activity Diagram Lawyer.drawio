@@ -1,0 +1,551 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7" pages="5">
+  <diagram id="8QUsETTgEkIm5FNnuREa" name="Page-1">
+    <mxGraphModel dx="724" dy="5065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-3" value="دریافت اطلاعات لازم برای&amp;nbsp; استعلام وضعیت وکیل&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-6" value="برون سپاری به درگاه ملی قوه قضائیه" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559.69" y="200" as="sourcePoint" />
+            <mxPoint x="559.69" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="J9nPQTr2SDorow0Y6-f6-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559.69" y="300" as="sourcePoint" />
+            <mxPoint x="559.69" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="J9nPQTr2SDorow0Y6-f6-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="J9nPQTr2SDorow0Y6-f6-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="360" />
+              <mxPoint x="680" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-12" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="534.9200000000001" y="340" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-14" value="[وکیل معتبر]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-16" value="[وکیل نامعتبر]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J9nPQTr2SDorow0Y6-f6-17" target="J9nPQTr2SDorow0Y6-f6-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-17" value="نمایش پیغام تایید هویت وکیل و فعال شدن امکانات سامانه برای وکیل" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-18" value="نمایش پیغام رد هویت وکیل" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.69" y="460" as="sourcePoint" />
+            <mxPoint x="680" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J9nPQTr2SDorow0Y6-f6-20" target="J9nPQTr2SDorow0Y6-f6-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-20" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="654.9200000000001" y="500" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="J9nPQTr2SDorow0Y6-f6-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="250" as="targetPoint" />
+            <mxPoint x="705.08" y="520" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="840" y="520" />
+              <mxPoint x="840" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-22" value="[تمایل به تلاش مجدد]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-23" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="534.9200000000001" y="560" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559.62" y="600" as="sourcePoint" />
+            <mxPoint x="559.93" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-28" value="خروج از صفحه احراز هویت وکیل" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="500" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-29" value="[عدم تمایل به تلاش مجدد]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559.76" y="700" as="sourcePoint" />
+            <mxPoint x="560.0699999999999" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="530" y="740" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="540" y="750" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-38" value="وکیل روی گزینه اعتبار سنجی کلیک می‌کند" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="499.92" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559.62" as="sourcePoint" />
+            <mxPoint x="559.62" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9nPQTr2SDorow0Y6-f6-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559.5400000000001" y="100" as="sourcePoint" />
+            <mxPoint x="559.5400000000001" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQMpu0HyW7xoSmKg_9Nj-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#464a4e, #7d8c9b);strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="535.08" y="-50" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BHHUOVTopA954IuOLzKv" name="Page-2">
+    <mxGraphModel dx="700" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q6PrsSENgf_TsyAbmx8w-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#464a4e, #7d8c9b);strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="375.00000000000006" y="-480" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2RQ7x6t_-ix-c-p81huo-1" value="&lt;font face=&quot;Georgia&quot;&gt;وکیل روی گزینه نوبت‌های ثبت شده کلیک می‌کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t1lLP_Mg4-IOii2Yulrq-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.501;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2RQ7x6t_-ix-c-p81huo-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-430" as="sourcePoint" />
+            <mxPoint x="404.94" y="-398" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t1lLP_Mg4-IOii2Yulrq-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.54;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.84999999999997" y="-340" as="sourcePoint" />
+            <mxPoint x="399.88999999999993" y="-311.67999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t1lLP_Mg4-IOii2Yulrq-3" value="&lt;font face=&quot;Georgia&quot;&gt;لیست تمامی نوبت‌های رزرو شده آن وکیل به او نمایش داده می‌شود&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t1lLP_Mg4-IOii2Yulrq-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="W-p4ShqY6u8XIkvprpoz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.88" y="-250" as="sourcePoint" />
+            <mxPoint x="400.12" y="-222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sm9HqYqjejE54HohAQSR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W-p4ShqY6u8XIkvprpoz-1" target="Xh_gArgQkaYfCg00wYKw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-p4ShqY6u8XIkvprpoz-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374.8400000000001" y="-220" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh_gArgQkaYfCg00wYKw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="-200" />
+              <mxPoint x="520" y="-160" />
+            </Array>
+            <mxPoint x="425" y="-200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xh_gArgQkaYfCg00wYKw-2" value="[مشاهده جزئیات یک نوبت ]&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh_gArgQkaYfCg00wYKw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xh_gArgQkaYfCg00wYKw-3" target="Xh_gArgQkaYfCg00wYKw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh_gArgQkaYfCg00wYKw-3" value="اطلاعات بیشتری از آن نوبت مانند نوع آن(حضوری یا آنلاین) و نام کاربری موکل نمایش داده می‌شود" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;spacingLeft=2;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="460.08" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh_gArgQkaYfCg00wYKw-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374.9200000000001" y="10" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm9HqYqjejE54HohAQSR-1" value="&lt;font face=&quot;Lucida Console&quot;&gt;خروج از صفحه نوبت‌های ثبت شده&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sm9HqYqjejE54HohAQSR-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.73999999999995" y="50" as="sourcePoint" />
+            <mxPoint x="399.85999999999996" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sm9HqYqjejE54HohAQSR-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.84" y="140" as="sourcePoint" />
+            <mxPoint x="399.96" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DCPOtSmOrNSnPt4moMhq-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCPOtSmOrNSnPt4moMhq-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#464A4E;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DCPOtSmOrNSnPt4moMhq-3" value="وکیل به دلخواه خود روی یکی از نوبت‌ها کلیک می‌کند" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;labelBorderColor=none;spacingLeft=2;spacingBottom=0;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCPOtSmOrNSnPt4moMhq-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519.79" y="-100" as="sourcePoint" />
+            <mxPoint x="519.91" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zZQuRS-BCxtz_gUDdV-X" name="Page-3">
+    <mxGraphModel dx="700" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xkssfdloRKbe_1EkQvJb-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#464a4e, #7d8c9b);strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="375.00000000000006" y="-480" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xkssfdloRKbe_1EkQvJb-2" value="&lt;font face=&quot;Lucida Console&quot;&gt;وکیل وارد بخش &quot;بازخورد‌ها و امتیازت&quot; در پروفایل خود می‌شود&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkssfdloRKbe_1EkQvJb-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.501;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xkssfdloRKbe_1EkQvJb-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-430" as="sourcePoint" />
+            <mxPoint x="404.94" y="-398" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r0ETERyL6SkeXYSgg4U--1" value="&lt;font style=&quot;line-height: 100%;&quot; face=&quot;Lucida Console&quot;&gt;تمامی بازخورد‌ها و امتیازات ثبت شده (شامل متن کامل بازخورد کاربر، امتیازی که داده است، تاریخ ثبت بازخورد)، برای او نمایش داده می‌شود&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;spacingLeft=2;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-310" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r0ETERyL6SkeXYSgg4U--2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="r0ETERyL6SkeXYSgg4U--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-340" as="sourcePoint" />
+            <mxPoint x="400" y="-310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r0ETERyL6SkeXYSgg4U--4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nxRKaOskTtexfp0t6uZz-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-210" as="sourcePoint" />
+            <mxPoint x="400.12" y="-177.53999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nxRKaOskTtexfp0t6uZz-8" value="&lt;font face=&quot;Lucida Console&quot;&gt;خروج از صفحه بازخورد‌ها و امتیازات&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxRKaOskTtexfp0t6uZz-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.84" y="-110" as="sourcePoint" />
+            <mxPoint x="399.96" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nxRKaOskTtexfp0t6uZz-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nxRKaOskTtexfp0t6uZz-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#464A4E;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-70" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5p0Yo_aiTZltF8KY0yZm" name="Page-4">
+    <mxGraphModel dx="512" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="loPyQapngL_hC4anc3Fw-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#464a4e, #7d8c9b);strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="-50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.76" as="sourcePoint" />
+            <mxPoint x="1315" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-3" value="&lt;font face=&quot;Georgia&quot;&gt;وکیل روی گزینه افزودن&amp;nbsp; قالب جدید کلیک می‌کند و وارد محیط مربوطه می‌شود.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.84" y="90" as="sourcePoint" />
+            <mxPoint x="1315.08" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-5" value="&lt;font face=&quot;Georgia&quot;&gt;وکیل روی گزینه آپلود فایل کلیک می‌کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-6" value="&lt;font face=&quot;Georgia&quot;&gt;پنجره مربوط به انتخاب فایل باز شده و وکیل می‌تواند فایل خود را آپلود کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.77" y="180" as="sourcePoint" />
+            <mxPoint x="1315.01" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.87" y="270" as="sourcePoint" />
+            <mxPoint x="1315.11" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="300" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435" y="360" as="targetPoint" />
+            <mxPoint x="1340" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1435" y="320" />
+              <mxPoint x="1435" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-11" value="[فرمت فایل انتخابی معتبر نیست]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="290" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-12" value="[فرمت فایل انتخابی معتبر است]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="290" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="loPyQapngL_hC4anc3Fw-14" target="loPyQapngL_hC4anc3Fw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="360" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="loPyQapngL_hC4anc3Fw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="150" as="targetPoint" />
+            <mxPoint x="1460.08" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1595" y="380" />
+              <mxPoint x="1595" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-16" value="[تمایل به تلاش مجدد]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460.16" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="480" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1195" y="360" as="targetPoint" />
+            <mxPoint x="1290" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="loPyQapngL_hC4anc3Fw-20" target="loPyQapngL_hC4anc3Fw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-20" value="وکیل روی گزینه تایید کلیک کرده و قالب جدید به سامانه اضافه شده و اکنون در دسترس کاربران است." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-21" value="[عدم تمایل به تلاش مجدد]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.78" y="520" as="sourcePoint" />
+            <mxPoint x="1315.02" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-23" value="خروج از صفحه افزودن قالب جدید&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.77" y="610" as="sourcePoint" />
+            <mxPoint x="1315.08" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="650" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loPyQapngL_hC4anc3Fw-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="660" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ob99i7RgMNJ_naJbzOx9" name="Page-5">
+    <mxGraphModel dx="-419" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZuSIBzT5IIH3YtCsCpta-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#464a4e, #7d8c9b);strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1290.16" y="-20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuSIBzT5IIH3YtCsCpta-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.76" y="30" as="sourcePoint" />
+            <mxPoint x="1315" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuSIBzT5IIH3YtCsCpta-7" value="&lt;font style=&quot;line-height: 100%; font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;وکیل روی گزینه افزودن&amp;nbsp; محتوای جدید کلیک می‌کند و وارد محیط مربوطه می‌شود&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBj5Vt6ROBAHyzdCZKkH-1" target="SworXqM72f84MvKNm46c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBj5Vt6ROBAHyzdCZKkH-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="150" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kBj5Vt6ROBAHyzdCZKkH-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.87" y="120" as="sourcePoint" />
+            <mxPoint x="1315.11" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1435" y="170" />
+              <mxPoint x="1435" y="210" />
+            </Array>
+            <mxPoint x="1340" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-2" value="[محتوا با دسته بندی جدید]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340.16" y="140" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SworXqM72f84MvKNm46c-3" target="SworXqM72f84MvKNm46c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-3" value="&lt;font style=&quot;line-height: 100%; font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;وکیل عنوان دسته جدید از محتوا را وارد کرده و روی گزینه تایید کلیک می‌کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1289.84" y="290" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.68" y="330" as="sourcePoint" />
+            <mxPoint x="1314.92" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-9" value="&lt;font style=&quot;line-height: 100%; font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;وکیل دسته بندی محتوا ( قوانین مدنی، جزایی و ...) را از بین گزینه‌های موجود انتخاب می‌کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1254.92" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SworXqM72f84MvKNm46c-11" target="SworXqM72f84MvKNm46c-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="450" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.87" y="420" as="sourcePoint" />
+            <mxPoint x="1315.11" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1435" y="470" />
+              <mxPoint x="1435" y="510" />
+            </Array>
+            <mxPoint x="1340" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-14" value="[محتوا با نوع جدید]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340.16" y="440" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SworXqM72f84MvKNm46c-16" target="SworXqM72f84MvKNm46c-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-16" value="&lt;font style=&quot;line-height: 100%; font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;وکیل عنوان نوع جدید از محتوا را وارد کرده و روی گزینه تایید کلیک می‌کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1289.84" y="590" width="50.16" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.68" y="630" as="sourcePoint" />
+            <mxPoint x="1314.92" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-19" value="&lt;font style=&quot;line-height: 100%; font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;وکیل نوع محتوا ( مقاله، ویدئو و ...) را از بین گزینه‌های موجود انتخاب می‌کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1254.92" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.8400000000001" y="720" as="sourcePoint" />
+            <mxPoint x="1315.0800000000002" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-21" value="&lt;font style=&quot;line-height: 100%; font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;وکیل عنوان محتوا را وارد می‌کند&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1255.0800000000002" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.68" y="810" as="sourcePoint" />
+            <mxPoint x="1314.92" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-23" value="&lt;font style=&quot;line-height: 100%; font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;وکیل روی گزینه آپلود فایل کلیک کرده، فایل محتوای مد نظر را آپلود کرده و گزینه تایید را می‌زند&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.5%3BexitY%3D1%3BexitDx%3D0%3BexitDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%221314.68%22%20y%3D%22630%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%221314.92%22%20y%3D%22660%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bline-height%3A%20100%25%3B%20font-size%3A%2010px%3B%26quot%3B%20face%3D%26quot%3BLucida%20Console%26quot%3B%26gt%3B%D9%88%DA%A9%DB%8C%D9%84%20%D9%86%D9%88%D8%B9%20%D9%85%D8%AD%D8%AA%D9%88%D8%A7%20(%20%D9%85%D9%82%D8%A7%D9%84%D9%87%D8%8C%20%D9%88%DB%8C%D8%AF%D8%A6%D9%88%20%D9%88%20...)%20%D8%B1%D8%A7%20%D8%A7%D8%B2%20%D8%A8%DB%8C%D9%86%20%DA%AF%D8%B2%DB%8C%D9%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C%20%D9%85%D9%88%D8%AC%D9%88%D8%AF%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%85%DB%8C%E2%80%8C%DA%A9%D9%86%D8%AF%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23f5f5f5%3BgradientColor%3D%23b3b3b3%3BstrokeColor%3D%23666666%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221254.92%22%20y%3D%22660%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1254.92" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.76" y="900" as="sourcePoint" />
+            <mxPoint x="1315" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-25" value="&lt;font style=&quot;line-height: 100%; font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;محتوای جدید به پایگاه داده اضافه شده و از این پس در اختیار کاربران قرار می‌گیرد&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1285.08" y="1020" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#464A4E;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1295.08" y="1030" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SworXqM72f84MvKNm46c-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1314.75" y="990" as="sourcePoint" />
+            <mxPoint x="1314.99" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
