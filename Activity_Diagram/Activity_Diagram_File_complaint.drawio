@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.7">
+  <diagram name="Page-1" id="4SQRNCtYjMpoULqF02vh">
+    <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="78EypBulr9mpi6a4VO_Q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="78EypBulr9mpi6a4VO_Q-1" target="78EypBulr9mpi6a4VO_Q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-1" value="کاربر روی گزینه &quot;ثبت شکایت&quot; کلیک میکند" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689.7" y="270" as="sourcePoint" />
+            <mxPoint x="689.7" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#464a4e, #7d8c9b);strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="665.1600000000001" y="220" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="78EypBulr9mpi6a4VO_Q-4" target="78EypBulr9mpi6a4VO_Q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-4" value="کاربر جزئیات شکایت خود را وارد میکند" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="630.16" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="78EypBulr9mpi6a4VO_Q-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-6" value="شکایت وارد شده برای اکانت پشتیبانی ارسال میشود" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="630" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="78EypBulr9mpi6a4VO_Q-9" target="78EypBulr9mpi6a4VO_Q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-9" value="شکایت با موفقیت ثبت میشود" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="630" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660.16" y="730" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="78EypBulr9mpi6a4VO_Q-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="670.16" y="740" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
